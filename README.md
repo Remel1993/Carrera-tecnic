@@ -32,6 +32,6 @@ npm run preview
 
 - `src/DiceFootballApp.tsx` — aplicación principal.
 - `src/components/` — componentes de UI.
-- `src/data/` — datos y lógica de carrera.
+- `src/lib/` — datos y lógica de carrera.
 - `src/main.tsx` — punto de entrada Vite.
 - `src/index.css` — Tailwind y estilos globales.
